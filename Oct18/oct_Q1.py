@@ -1,0 +1,13 @@
+s=0;
+T=input()
+while(T>0):
+    P1=input()
+    P2=input()
+    K=input()
+    s=P1+P2
+    s=int(s/K)
+    if(s%2==0):
+        print("CHEF")
+    else:
+        print("COOK")
+    T=T-1
