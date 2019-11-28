@@ -1,0 +1,38 @@
+a1,a2,a3,a4=input().split()
+a1,a2,a3,a4=int(a1),int(a2),int(a3),int(a4)
+s=a1+a2+a3+a4
+if(s%2!=0):
+    print("NO")
+else:
+    s=s/2
+    if(a1==s):
+        print("YES")
+    elif(a2==s):
+        print("YES")
+    elif(a3==s):
+        print("YES")
+    elif(a4==s):
+        print("YES")
+    elif(a1+a2==s):
+        print("YES")
+    elif(a2+a3==s):
+        print("YES")
+    elif(a3+a4==s):
+        print("YES")
+    elif(a1+a3==s):
+        print("YES")
+    elif(a1+a4==s):
+        print("YES")
+    elif(a2+a4==s):
+        print("YES")
+    elif(a1+a2+a3==s):
+        print("YES")
+    elif(a2+a3+a4==s):
+        print("YES")
+    elif(a1+a3+a4==s):
+        print("YES")
+    elif(a1+a2+a4==s):
+        print("YES")
+    else:
+        print("NO")
+
