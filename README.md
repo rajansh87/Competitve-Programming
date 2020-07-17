@@ -6,8 +6,8 @@ My Solved programs on various Competitive Programming platforms.
 ###### 2. [Hackerrank](https://www.hackerrank.com/rajansh87)
 ###### 3. [Hackerearth](https://www.hackerearth.com/@rajansh87)
 ###### 4. [Codeforces](https://codeforces.com/profile/Anshraj_Shrivastava)
-###### 5. [InterviewBit]
-###### 6. [Google Competitions]
+###### 5. [InterviewBit](https://www.interviewbit.com/profile/rajansh87)
+###### 6. [Google Competitions](https://codingcompetitions.withgoogle.com/)
 ###### 7. [GeeksforGeeks]
 ###### 8. [Code Gladiators]
 ###### 9. [Project Euler]
