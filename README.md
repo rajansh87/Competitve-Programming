@@ -11,5 +11,5 @@ My Solved programs on various Competitive Programming platforms.
 ###### 7. [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rajansh87/profile)
 ###### 8. [Code Gladiators](https://www.techgig.com/codegladiators/)
 ###### 9. [Project Euler](https://projecteuler.net/)
-###### 10. [ICPC]
-###### 11. [CodeKata]
+###### 10. [ICPC](https://icpc.global/ICPCID/N09IL4PGFVFB)
+###### 11. [CodeKata](https://www.codewars.com/)
