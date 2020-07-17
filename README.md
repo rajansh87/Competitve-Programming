@@ -8,8 +8,8 @@ My Solved programs on various Competitive Programming platforms.
 ###### 4. [Codeforces](https://codeforces.com/profile/Anshraj_Shrivastava)
 ###### 5. [InterviewBit](https://www.interviewbit.com/profile/rajansh87)
 ###### 6. [Google Competitions](https://codingcompetitions.withgoogle.com/)
-###### 7. [GeeksforGeeks]
-###### 8. [Code Gladiators]
-###### 9. [Project Euler]
+###### 7. [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rajansh87/profile)
+###### 8. [Code Gladiators](https://www.techgig.com/codegladiators/)
+###### 9. [Project Euler](https://projecteuler.net/)
 ###### 10. [ICPC]
 ###### 11. [CodeKata]
