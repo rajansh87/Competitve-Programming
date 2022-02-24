@@ -1,0 +1,25 @@
+file1 = open("/content/b_better_start_small.in.txt","r")
+n,m=map(int,file1.readline().split())
+contributor=dict()
+
+for i in range(n):
+  s=file1.readline().split()
+  name,countSkill=s[0],int(s[1])
+  contributor[name]=[]
+  for j in range(countSkill):
+    s=file1.readline().split()
+    skill,level=s[0],int(s[1])
+    contributor[name].append(skill)
+
+projects=dict()
+for i in range(m):
+  s=file1.readline().split()
+  project,a,b,c,d=s[0],int(s[1]),int(s[2]),int(s[3]),int(s[4])
+  projects[project]=[]
+  for j in range(d):
+    s=file1.readline().split()
+    skill,level=s[0],int(s[1])
+    projects[project].append(skill)
+
+print(contributor)
+print(projects)
